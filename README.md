@@ -10,6 +10,7 @@ and I would like to start a Python coding portfolio by doing the stuff done here
 ### 1. Desktop cleaner
 
 Cheers,
+
 Vernando
 
 
